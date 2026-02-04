@@ -20,5 +20,5 @@ I bridge the gap between complex data insights and user-friendly digital experie
 ---
 
 ## 📬 Let's Connect!
-- 💼 **Portfolio:** [Link to your hosted site]
+- 💼 **Portfolio:** (https://www.linkedin.com/in/danial-rahman-b20978309/)
 - 📍 **Location:** Baguio City, Philippines
