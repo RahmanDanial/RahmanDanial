@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Danial! 👋
 
-<!--
-**RahmanDanial/RahmanDanial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Analyst & Web Developer
+I bridge the gap between complex data insights and user-friendly digital experiences. Currently based in Baguio City, focusing on IT solutions that solve community problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+* **Frontend:** HTML5, CSS3 (Landing Page Architecture)
+* **Data Science:** Data Mining, Customer Segmentation, Statistical Analysis
+* **Tools:** GitHub, Microsoft Excel, Project Management (PPM)
+
+---
+
+## 📊 Current Projects
+* **[E-Commerce Landing Page](link-to-repo):** A high-conversion landing page built with clean HTML/CSS.
+* **[Data Mining Research](link-to-repo):** Exploring datasets in kidney disease and bike-sharing to find actionable patterns.
+* **[Personalized Learning App](link-to-repo):** Developing a project charter for a modern educational tool.
+
+---
+
+## 📬 Let's Connect!
+- 💼 **Portfolio:** [Link to your hosted site]
+- 📍 **Location:** Baguio City, Philippines
