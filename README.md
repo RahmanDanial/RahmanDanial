@@ -1,5 +1,4 @@
-# Hi, I'm Danial! 👋
-
+<marquee><h1>Hi, I'm Danial! 👋</h1></marquee>
 ### 🚀 Data Analyst & Web Developer
 I bridge the gap between complex data insights and user-friendly digital experiences. Currently based in Baguio City, focusing on IT solutions that solve community problems.
 
