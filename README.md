@@ -10,7 +10,12 @@ I bridge the gap between complex data insights and user-friendly digital experie
 <br/><br/><br/>
 
 ---
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RahmanDanial-BND&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RahmanDanial-BND&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanDanial-BND&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/><br/><br/>
+---
 ## 📊 Current Projects
 * **[E-Commerce Landing Page](link-to-repo):** A high-conversion landing page built with clean HTML/CSS.
 * **[Data Mining Research](link-to-repo):** Exploring datasets in kidney disease and bike-sharing to find actionable patterns.
