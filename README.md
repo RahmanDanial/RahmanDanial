@@ -4,7 +4,11 @@
 </h1>
 <br/><br/><br/>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=435&lines=Data+Analyst;Web+Developer;Problem+Solver)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=435&center=true&vCenter=true&lines=Data+Analyst;Web+Developer;Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
 ### 🚀 Data Analyst & Web Developer
 I bridge the gap between complex data insights and user-friendly digital experiences. Currently based in Baguio City, focusing on IT solutions that solve community problems.
 ---
