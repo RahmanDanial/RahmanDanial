@@ -15,6 +15,13 @@ I bridge the gap between complex data insights and user-friendly digital experie
 ## 📬 Let's Connect!
 - 💼 **Portfolio:** (https://www.linkedin.com/in/danial-rahman-b20978309/)
 - 📍 **Location:** Baguio City, Philippines
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vedonic-BND&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vedonic-BND&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedonic-BND&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/><br/><br/>
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RahmanDanial-BND&limit=5&theme=dracula&combine_all_yearly_contributions=true)
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vedonic-BND/Vedonic-BND/output/github-contribution-grid-snake.svg" />
