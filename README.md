@@ -1,5 +1,8 @@
 <div align="center">
-# Hi, I'm Danial! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danial+Rahman!;" />
+</h1>
+<br/><br/><br/>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=435&lines=Data+Analyst;Web+Developer;Problem+Solver)](https://git.io/typing-svg)
 ### 🚀 Data Analyst & Web Developer
