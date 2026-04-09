@@ -11,7 +11,21 @@
 </a>
 
 <br/>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="250px" alt="Coding Left" />
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="250px" alt="Coding Middle" />
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250px" alt="Coding Right" />
+      </td>
+    </tr>
+  </table>
+</div>
 ### 🚀 Data Analyst & Web Developer
 I bridge the gap between complex data insights and user-friendly digital experiences.<br/>Currently based in Baguio City, focusing on IT solutions that solve community problems.
 
