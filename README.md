@@ -1,3 +1,4 @@
+<div align="center">
 [![Currently Vibing](https://img.shields.io/badge/Currently_Vibing-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4RasipdHr5laPoKJ3C0hXW?si=29743f560cb24536)
 <div align="center">
 <h1 align="center">
