@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://googleusercontent.com/spotify.com/6">
+  <a href="https://open.spotify.com/playlist/4RasipdHr5laPoKJ3C0hXW?si=eB0KJhZvT-W_t3IIIGLQtQ%0A">
     <img src="https://img.shields.io/badge/Currently_Vibing-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
