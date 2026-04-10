@@ -1,4 +1,8 @@
-[![Currently Vibing](https://img.shields.io/badge/Currently_Vibing-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4RasipdHr5laPoKJ3C0hXW?si=29743f560cb24536)
+<p align="center">
+  <a href="http://googleusercontent.com/spotify.com/6">
+    <img src="https://img.shields.io/badge/Currently_Vibing-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
 <div align="center">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Danial+Rahman!;" />
