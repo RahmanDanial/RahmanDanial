@@ -30,7 +30,7 @@
     </tr>
   </table>
 </div>
-## 🚀 Data Analyst & Web Developer
+## 🚀 Data Analyst & Web Developer:
 I bridge the gap between complex data insights and user-friendly digital experiences.<br/>Currently based in Baguio City, focusing on IT solutions that solve community problems.
 
 <br/>
