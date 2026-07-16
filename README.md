@@ -25,7 +25,8 @@
         <img src="https://media.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="250px" alt="Coding Middle" />
       </td>
       <td align="center">
-        <img src="<div class="tenor-gif-embed" data-postid="16689995327643035486" data-share-method="host" data-aspect-ratio="0.608434" data-width="100%"><a href="[https://tenor.com/en-GB/view/jinx-cat-javascript-js-jinx-gif-16689995327643035486](https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQxNzUzMTQsIm5iZiI6MTc4NDE3NTAxNCwicGF0aCI6Ii83NDAzODE5MC8yNDMzMjg1NjMtZDBjZmU3ZDEtMGI4Yy00ZTRhLTlhNjYtODc1MjkwYmE2MDY1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE2VDA0MTAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwOTk3YzZiOGUxNDcyOTQ5NGZhYmJiMTZiZDNjYjI2MDM4Yjk0MzBhYzM1YzVmMzhjYmI1MGMxNTY1ZTE5MWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.bRahbYwwkOSTfs2zhRR4TbPILej7mrSvAyxoHuwI7z4)">Jinx Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="250px" alt="Coding Right" />
+        <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
+<br><br> alt="Coding Right" />
       </td>
     </tr>
   </table>
