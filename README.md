@@ -25,7 +25,7 @@
         <img src="https://media.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="250px" alt="Coding Middle" />
       </td>
       <td align="center">
-        <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhlZTU1bzJyYnBqbnR4NjBnNGI0Nm5zOWhxZ2VscmQwNW1oYjI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif](https://tenor.com/en-GB/view/jinx-cat-javascript-js-jinx-gif-16689995327643035486)" width="250px" alt="Coding Right" />
+        <img src="[[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhlZTU1bzJyYnBqbnR4NjBnNGI0Nm5zOWhxZ2VscmQwNW1oYjI1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif](https://tenor.com/en-GB/view/jinx-cat-javascript-js-jinx-gif-16689995327643035486)](https://media1.tenor.com/m/557GUrcXp14AAAAd/jinx-cat-javascript.gif)" width="250px" alt="Coding Right" />
       </td>
     </tr>
   </table>
