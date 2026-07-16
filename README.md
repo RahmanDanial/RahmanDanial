@@ -25,7 +25,7 @@
         <img src="https://media.giphy.com/media/Vcdbi5o470i9FACaZO/giphy.gif" width="250px" alt="Coding Middle" />
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="500">
 <br><br>
       </td>
     </tr>
